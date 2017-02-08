@@ -1,0 +1,13 @@
+SSH Account
+u: asoaad
+p: (6)nE~M72J
+
+Blue oprtal
+https://secure.ypsilon.net/portal/ypsdemo/login.php
+u: yps_asoaad
+p: Abxx(9876)!
+
+Email Account
+asoaad@ypsilon.net
+n23A(7)+JN
+
