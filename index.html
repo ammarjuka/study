@@ -1,0 +1,13 @@
+<?php
+   $host        = "f2-ab-fraud2.infosys.de";
+   $port        = "port=5432";
+   $dbname      = "fc3";
+   $credentials = "user=fraudchecker password=NoFraudPLZ";
+
+   $db = pg_connect( "$host $port $dbname $credentials"  );
+   if(!$db){
+      echo "Error : Unable to open database\n";
+   } else {
+      echo "Opened database successfully\n";
+   }
+?>
